@@ -14,4 +14,4 @@ Download Nuclear Events file (https://xyotta.com/v1/index.php/Nuclear_events_dat
 
 
 
-Contact me ( Vatshayan007@gmail.com) For Project Guidance, Internship, Job and Data Science Help!!
+## Contact me ( Vatshayan007@gmail.com) For Codes, Project,  Project Guidance  and Research papers Help!!
